@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import { Home } from './Pages/Home';
 import { Index } from './Pages/Index';
+import { Home } from './Pages/Home';
 import { NotFound } from './Pages/NotFound';
 
 export const AppRoutes = () => {
